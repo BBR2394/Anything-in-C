@@ -1,0 +1,14 @@
+echo "\x1B[33m bonjour je vais bien en jaune\x0A\x1B[34m et maintenant en bleu\x0A\x1B[35m\x1B[102mtest\x1B[0m";
+echo "normal";
+echo "\x1B[01mBold\x1B[0m";
+echo "\x1B[02mLight\x1B[0m";
+echo "\x1B[03mItalic (Not widely supported)\x1B[0m";
+echo "\x1B[04mUnderline\x1B[0m";
+echo "\x1B[05mblink\x1B[0m";
+echo "\x1B[06mrapid blink (Not widely supported)\x1B[0m";
+echo "\x1B[10mdefault\x1B[0m";
+echo "\x1B[20mFraktur\x1B[0m";
+echo "\x1B[31mRed\x1B[0m";
+echo "\x1B[91mBright Red\x1B[0m";
+echo "\x1B[41mBackground in Red\x1B[0m";
+echo "\x1B[101mBackground in Bright Red\x1B[0m";
